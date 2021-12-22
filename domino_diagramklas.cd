@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domino" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAtAAAAAAAAAAABAAgIAAAAAAAADAAQIAEEAAAAA=</HashCode>
+      <FileName>domino.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElementListy&lt;TYP&gt;" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAgACAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>kostki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kostka" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BARCgAAAAAAAAACAAQCAAAAAAAAAAAAIAIAAAAAIIAA=</HashCode>
+      <FileName>kostki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plansza" Collapsed="true">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAABAAAAAAIAAAAAAAAAAAABAAAAAAAAAAIAAA=</HashCode>
+      <FileName>plansza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAIABAAAEABAAAAAAAAAAAAAUAAAACAYRAAIAA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Osoba" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Komputer" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
